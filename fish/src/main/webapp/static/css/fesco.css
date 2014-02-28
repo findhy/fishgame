@@ -1,0 +1,23 @@
+<!--maf Start-->
+#delPage{ width:425px; height:204px; margin:0 auto; background:url(images/bg1.jpg) no-repeat;}
+#del_title{ color:#1A3C93; float:left; width:415px; padding-left:8px; height:24px;}
+#del_button{ width:320px; height:22px; margin:0 auto}
+#del_bt{ width:500px; height:22px; float:left; margin-top:33px;}
+#del_input_y{ float:left; width:415px; padding-top:2px; padding-left:15px;}
+.del_input_h{width:445px; height:22px; float:left;margin-top:4px;}
+#corp{width:28%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;border: 0px solid #333;}
+#org{width:26%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;border: 0px solid #333;}
+#role{width:42%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;border: 0px solid #333;}
+#userlist {width:46%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;}
+#all{position:absolute;background:#00F;top:0;bottom:0px;left:0px;right:0px;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;}
+#rolePage{ width:500px; height:200px; margin:0 auto;}
+#role_y{ float:left; width:420px; padding-top:2px; padding-left:15px;}
+#role_h{ float:left; width:420px;}
+#role_k{ float:left; width:420px;}
+button.diyBtn1 { background:url("./img/btn1.png") no-repeat scroll 1px 1px transparent;}
+
+#rolet{width:28%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;border: 0px solid #333;}
+#funt{width:28%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;border: 0px solid #333;}
+#groupt{width:28%;height:100%;float:left;overflow-x:auto;overflow-y:auto;background-color:#ffffff;border: 0px solid #333;}
+
+<!--maf End-->

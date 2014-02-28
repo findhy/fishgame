@@ -1,0 +1,10 @@
+.resizeDivClass
+{  
+position:absolute;  
+/*background-color:gray;  */
+width:20px;  
+height:23px;  
+z-index:1;
+display: block;  
+cursor:e-resize  
+}  

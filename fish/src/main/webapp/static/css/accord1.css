@@ -1,0 +1,21 @@
+.accord{
+	width:200px;border-right:#84a0c4 1px solid;background:#fff;
+} 
+.global_module { 
+	position:relative;
+}
+.module_up_down{ 
+	position:absolute; 
+	top:0px; 
+	right:0px; 
+	cursor:pointer;
+}
+.accord_hide{background-position:0 -255px; background-image:url(../images/tool-sprites.gif);}
+.accord_hide:hover{background-position:-15px -255px; background-image:url(../images/tool-sprites.gif);}
+.accord_open{background-position:0 -240px;background-image:url(../images/tool-sprites.gif);}
+.accord_open:hover{background-position:-15px -240px;background-image:url(../images/tool-sprites.gif);}
+.global_module h3 { 
+	line-height:24px;height:24px;background:url(../images/light-hd.gif) repeat-x 0 -9px;padding:0 5px;position:relative;border-bottom:#99BBE8 1px solid;cursor:pointer;
+}
+.global_module h3  span{line-height:15px;height:15px;margin-right:5px;}
+.accord_content1{display:none;border-bottom:#99BBE8 1px solid;overflow:auto;;}

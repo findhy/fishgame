@@ -1,0 +1,20 @@
+.trees{padding:5px 4px;}
+.trees li{line-height:16px;white-space:nowrap}
+.trees ul{padding-left:18px;background:url(../images/line_conn.gif) repeat-y;}
+.trees span{padding-left:2px;font-size:12px;font-family:Microsoft Yahei,"ËÎÌו",}
+.trees font{font-family:Georgia, "Times New Roman", Times, serif;font-size:11px;}
+.trees button,.trees .subOpen,.trees .lineCenter,.trees .minusLine,.trees .bottomLine,.trees .files,.trees .topMinusLine,.trees .bottomMinusLine,.trees .plusLine,.trees .trees .bottomPlusLine{width:18px;height:18px;background:none;border:none;padding:0;margin:0;vertical-align:middle;background:url(../images/icon.gif) no-repeat -196px 0;cursor:pointer}
+.trees .subOpen{background-position:-178px 0}
+.trees .lineCenter{background-position:-178px -18px;cursor:default}
+.trees .minusLine{background-position:-214px 0;}
+.trees .bottomLine{background-position:-232px 0;}
+.trees .files{background-position:-196px -18px;}
+.trees .topMinusLine{background-position:-250px 0;}
+.trees .bottomMinusLine{background-position:-232px -18px;}
+.trees .bottomPlusLine{background-position:-250px -18px;}
+.trees .plusLine{background-position:-214px -18px;}
+.trees .subClose{background-position:-196px 0;}
+.trees .noLine{background:none;display:block}
+.trees b{font-weight:normal;cursor:pointer;}
+.trees .selected{border:1px solid #FFB951;background:#FFE6B0}
+.noLine{display:none}

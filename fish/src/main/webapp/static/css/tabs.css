@@ -1,0 +1,18 @@
+.tabs{background:#deecfd;padding-bottom:2px;border:1px solid #84a0c4;border-width:1px 0}
+.tabs_list{height:26px;line-height:26px;background:url(../images/tab-strip-bg.gif) repeat-x;padding-top:1px;border-bottom:1px solid #84a0c4;}
+.tabs_list li,.tabs_list span,.tabs_list .selected{display:block;float:left;background:url(../images/tabs_bg.gif) no-repeat;margin-left:2px;padding-left:12px;cursor:pointer}
+.tabs_list span,.selected span{background-position:right 0;padding:0 12px 0 0;margin:0;color:#15428B}
+.tabs_list .selected{background-position:0 bottom;height:27px;line-height:27px;}
+.tabs_list .selected span{background-position:right bottom;font-weight:bold;height:27px;line-height:27px;}
+
+.tabsNoBorder{background:#deecfd;padding-bottom:2px;}
+
+.tabs_list_top{height:22px;line-height:22px;background:url(../images/tab-strip-bg.gif) repeat-x;padding-top:1px;border-bottom:1px solid #84a0c4;}
+.tabs_list_top li,.tabs_list_top span,.tabs_list_top .selected{display:block;float:left;background:url(../images/tabs_bg.gif) no-repeat;margin-left:2px;padding-left:12px;cursor:pointer}
+.tabs_list_top span,.selected span{background-position:right 0;padding:0 12px 0 0;margin:0;color:#15428B}
+.tabs_list_top .selected{background-position:0 bottom;height:23px;line-height:23px;}
+.tabs_list_top .selected span{background-position:right bottom;font-weight:bold;height:23px;line-height:23px;}
+
+.tabs_box a{position:absolute;width:8px;height:8px;background:url(../images/tabs_icon.gif) no-repeat;top:8px;right:5px;}
+.tabs_box a:hover{background-position:0 -8px;}
+.tabs_box li{position:relative;cursor:pointer}

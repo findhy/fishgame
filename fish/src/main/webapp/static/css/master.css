@@ -1,0 +1,60 @@
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,em,img,q,dl,dt,dd,ol,ul,li,label,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;vertical-align:baseline;}
+table,td,th{vertical-align:middle;}
+blockquote:before,blockquote:after,q:before,q:after{content:"";}
+blockquote,q{quotes:"""";}
+ul{list-style:none}
+a img{border:none}
+html,body,input{font-size:12px;font-family:Microsoft Yahei,Arial,Verdana,"微软雅黑","宋体",;color:#000;}
+body{background:#fff;}
+a{color:#000;text-decoration:none}
+a:hover{color:#10619a}
+a:focus{-moz-outline:none;outline:none}
+/*header*/
+.header{background:url(../images/hd-bg.gif) repeat-x;}
+.logo{float:left;margin:3px 4px 0;}
+.system_title{font-size:20px;color:#fff;font-weight:bold;line-height:32px;float:left}
+.quit{float:right;border:none;background:url(../images/quit.gif) no-repeat;width:80px;height:24px;color:#000;font-weight:bold;font-family:Microsoft Yahei,Arial,Verdana,"微软雅黑","宋体";margin:4px 4px 0}
+.info_bar{text-align:right;background:url(../images/bg.gif) repeat-x;padding:2px 6px;height:20px;line-height:20px;clear:both}
+.head_bottom{background:#cfdeef;color:#15428B;}
+.left_switch{width:190px;background:url(../images/white-top-bottom.gif) repeat-x;height:24px;line-height:24px;float:left;border:#84a0c4 1px solid;border-width:0 1px 1px 0;padding-left:10px;font-weight:bold;position:relative}
+.left_hide{width:20px;text-indent:200px;overflow:hidden}
+.bread_crumbs{display:block;line-height:24px;height:24px;padding-left:8px;background:url(../images/bg.gif) repeat-x;border:#84a0c4 1px solid;border-width:1px 0 1px 1px;color:#000;margin-left:205px}
+.bread_crumbs_top{display:block;line-height:24px;height:24px;background:url(../images/bg.gif) repeat-x;border:#84a0c4 1px solid;border-width:0 0 1px 1px;color:#000;margin-left:205px}
+
+.hide_crumbs{margin-left:35px}
+.bread_crumbs b{color:#15428B}
+.hide_left,.open_left,.accord_hide,.accord_open{background:url(../images/tool-sprites.gif) no-repeat;cursor:pointer;width:15px;height:15px;}
+.hide_left,.open_left,.accord_hide,.accord_open{position:absolute;background-position:0 -180px;right:10px;top:5px;}
+.hide_up,.open_up{background:url(../images/tool-sprites.gif) no-repeat;cursor:pointer;width:15px;height:15px;}
+.hide_up,.open_up{position:absolute;background-position:0 -210px;right:30px;top:5px;}
+.hide_down,.open_down{background:url(../images/tool-sprites.gif) no-repeat;cursor:pointer;width:15px;height:15px;}
+.hide_down,.open_down{position:absolute;background-position:0 -195px;right:30px;top:5px;}
+.hide_left:hover{background-position:-15px -180px}
+.open_left{background-position:0 -165px}
+.open_left:hover{background-position:-15px -165px}
+/*left*/
+.left_bg{background:#cfdeef url(../images/left_bg.gif) repeat-y right 0;}
+/*title*/
+.title2{background:url(../images/white-top-bottom.gif) repeat-x;line-height:18px;height:18px;padding:3px 8px;border:1px solid #84a0c4;border-width:0 0 1px 0;color:#15428B;font-weight:bold}
+.title2 span{*float:left}
+/*other*/
+.cent_left,.cent_right,.left_tree{float:left;width:60%;height:236px;overflow:auto}
+.cent_right{width:40%;}
+.cont_box{width:100%;height:200px;overflow:auto}
+.left_tree{border-right:1px solid #84A0C4;overflow:hidden;height:auto;width:200px;}
+.trees_box{overflow:auto;height:425px;}
+/*fieldset*/
+fieldset {border: 1px solid #71A0DD; color: #000000;margin:0}
+.border_dot{border:1px dotted #B8D0D6!important}
+
+.configure .context .left .content\0{ margin:0 5px 5px}
+.configure .context .right .content\0{ margin:0 5px 5px}
+
+.footer { bottom: 0; height: 24px; line-height:24px; left: 0;padding: 0 5px; position: absolute; text-align: center; width: 100%;z-index: -1; background:#CFDEEF}
+.pages_footer { bottom: 0; height: 24px; line-height:24px; left: 0;position: absolute; text-align: center; width: 100%; background:#CFDEEF}
+
+/*2012-11-22 By xdq*/
+#matDiv { white-space:nowrap;}
+/*2013-3-25 By xdq*/
+.fold{ background:url(../images/addMoveH.png) 0 0 no-repeat;display:block;width:20px;height:18px;margin-top:5px;margin-left:40px}
+a.fold:hover{ background-position:-20px 0px;margin-top:5px}

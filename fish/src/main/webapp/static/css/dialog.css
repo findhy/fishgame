@@ -1,0 +1,46 @@
+.shadow{position:absolute;width:100%;height:100%;left:0;top:0;opacity: .30;filter:Alpha(Opacity=30);background:#000;display:none;z-index:99;}
+.aialog{position:absolute;z-index:100;left:0;top:0;border:#8ea4c1 1px solid;width:400px;background:#e6eaed;padding:1px;display:none}
+.aialog2{position:absolute;z-index:100;border:#8ea4c1 1px solid;width:400px;background:#e6eaed;padding:1px;}
+.aialog_box{background:#ccd8e7;padding:0 4px}
+.aialog_title{height:24px;line-height:24px;color:#15428b;font-weight:bold}
+.close_dialog{width:15px;height:15px;background:url(../images/tool-sprites.gif) 0 0 no-repeat;float:right;margin-top:4px;cursor:pointer;}
+.mini_dialog{width:15px;height:15px;background:url(../images/tool-sprites.gif) 0 -15px no-repeat;float:right;margin-top:4px;cursor:pointer;}
+.max_dialog{width:15px;height:15px;background:url(../images/tool-sprites.gif) 0 -30px no-repeat;float:right;margin-top:4px;cursor:pointer;}
+.tomin_dialog{width:15px;height:15px;background:url(../images/tool-sprites.gif) 0 -45px no-repeat;float:right;margin-top:4px;cursor:pointer;}
+.open_dialog{width:15px;height:15px;background:url(../images/tool-sprites.gif) 0 -60px no-repeat;float:right;margin-top:4px;cursor:pointer;}
+.noOpen_dialog{width:15px;height:15px;background:url(../images/tool-sprites.gif) 0 -75px no-repeat;float:right;margin-top:4px;cursor:pointer;}
+
+
+.close_dialog:hover{background-position:-15px 0}
+.mini_dialog:hover{background-position:-15px -15px}
+.max_dialog:hover{background-position:-15px -30px}
+.open_dialog:hover{background-position:-15px -60px}
+.noOpen_dialog:hover{background-position:-15px -75px}
+
+/* .aialog_cont{background:#dfe8f6;border:#a3bae9 1px solid;padding:10px 0 0 0;}*/
+.aialog_cont{background:#dfe8f6;border:#a3bae9 1px solid;}
+.aialog_cont table{table-layout:auto;}
+.aialog_cont_table{background:#dfe8f6;border:#a3bae9 1px solid;}
+/* .aialog_cont td{background:#dfe8f6;border:none;padding:2px 0}
+.aialog_cont td{padding:2px 0}*/
+.aialog_tool{text-align:center;padding:6px 4px;}
+.aialog_tool input{margin:0 10px}
+.misage_box{width:248px;background:#ccd8e7;padding:0 4px}
+.alert_cont,.error_cont,.info_cont,.question_cont{background:url(../images/icon-warning.gif) no-repeat 15px 10px;padding:15px 0 15px 62px;}
+.error_cont{background-image:url(../images/icon-error.gif)}
+.info_cont{background-image:url(../images/icon-info.gif)}
+.question_cont{background-image:url(../images/icon-question.gif)}
+
+.block{background-color:#abc; width:1px; height:20px; overflow:hidden;}
+.loadshadow{z-index:110;}
+/* 
+.aialog_cont02{background:#dfe8f6;border:#a3bae9 1px solid;padding:1px;}
+.aialog_cont02 table{table-layout:auto;}
+.aialog_cont02 td{background:#fff;border-bottom:1px solid #D0D0D0;}
+*/
+/* ProgressBar */
+.progressBar { border:solid 2px #86a5ad; background:#FFF url(../images/progressBar.gif) no-repeat 10px 10px;}
+.progressBar { display:block; width:148px; width/0:198px; height:28px; position:fixed; top:50%; left:50%; margin-left:-74px; margin-top:-14px; padding:10px 10px 10px 50px; text-align:left; line-height:27px; font-weight:bold; position:absolute; z-index:2001;}
+.background { display:block; width:100%; height:100%; opacity:0.4; filter:alpha(opacity=40); background:#FFF; position:absolute; top:0; left:0; z-index:2000;}
+.alertBackground { display:none; width:100%; height:100%; opacity:0.4; filter:alpha(opacity=40); background:#FFF; position:absolute; top:0; left:0; z-index:1010;}
+.dialogBackground { display:none; width:100%; height:100%; opacity:0.4; filter:alpha(opacity=40); background:#FFF; position:absolute; top:0; left:0; z-index:900;}

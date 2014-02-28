@@ -1,0 +1,12 @@
+.demo{width:450px; margin:100px auto}
+.select_side{float:left; width:180px}
+select{width:180px; height:120px}
+table{text-align:center;margin-top:5px}
+tr{height:12px}
+thead{height:25px}
+--tbody{height:200px}
+.select_opt{float:left; width:40px; height:100%; margin-top:50px}
+.select_opt p{width:26px; height:26px; margin-top:6px; background:url(../images/arr.gif) no-repeat; cursor:pointer; text-indent:-999em}
+.select_opt p#toright{background-position:2px 0}
+.select_opt p#toleft{background-position:2px -22px}
+.sub_btn{clear:both; height:42px; line-height:42px; padding-top:10px; text-align:center}

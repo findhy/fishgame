@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+.yanzhengWrap{width:800px;margin:0 auto}
+.yanzheng{width:100%;height:32px;line-height:30px;clear:both}
+/*.yanzheng{overflow: hidden;}*/
+.yanzheng textarea{font-size:12px!important}
+.yanzheng_textA textarea{font-size:12px!important}
+.yanzheng .enter{line-height:15px;}
+.yanzheng .wenzi{float:left; text-align:right;width:130px;}
+.yanzheng .wenzi50{float:left;text-align:right;width:50px;}
+.wenzi50{float:left;text-align:right;width:50px;}
+
+.yanzheng .wenzi80{float:left;text-align:right;width:80px;}
+.yanzheng .wenzi90{float:left;text-align:right;width:90px;}
+.yanzheng .wenzi100{float:left;text-align:right;width:100px;}
+.yanzheng .wenzi120{float:left;text-align:right;width:120px;}
+.yanzheng .wenzi135{float:left;text-align:right;width:135px;}
+.yanzheng .wenzi150{float:left;text-align:right;width:150px;}
+.yanzheng .wenzi200{float:left;text-align:right;width:200px;}
+.yanzheng .wenzi240{float:left;text-align:right;width:240px;}
+
+.yanzheng .shuru{float:left;text-align:left;padding-left:5px;width:220px;position:relative}
+.yanzheng .shuru_fourL{float:left; text-align:left;padding-left:5px;width:135px;}
+/*2012-11-24 By xudaiquan position:re*/
+.yanzheng .shuru3col{float:left;text-align:left;padding-left:5px;}
+.yanzheng .shuru160px{float:left;text-align:left;padding-left:5px;width:160px;}
+.yanzheng .shuru_fourLong{float:left; text-align:left;padding-left:5px;}
+.yanzheng .shuru_230{float:left; text-align:left;padding-left:5px;width:230px;}
+.yanzheng .shuru_600{float:left; text-align:left;padding-left:5px;width:600px;}
+.yanzheng .shuruOver{float:left; text-align: left;padding-left:5px;width:230px;height:30px;overflow-y:auto }
+
+.yanzheng .shuru500{float:left; text-align:left;padding-left:5px;width:500px;}
+.radioCheckbox{vertical-align: -2px;_vertical-align: -1px;margin-right: 2px}
+label {float: left; }
+label.error {float: none; color: red;  vertical-align:top;}
+.submit {margin-left: 12px; }
+em {font-weight: bold; padding-right: 3px; float: left; position: absolute; line-height:20px;height: 20px; /* border: 1px solid #CCCCCC; */ text-indent: 0; text-align: left; margin-left:5px; z-index:10; font-family:Arial, Helvetica, sans-serif; color:#666666;}
+em.error {white-space: nowrap;background: #FFE0E9 url(../images/reg3.gif) no-repeat 0 center;padding-left:18px;  z-index:11;margin-top:5px;}
+em.success {background:url(../images/reg4.gif) no-repeat 0 center;padding-left:18px; z-index:11;}
+
+.bgLight{background:#E6EAED;}
+.p_l150px{padding-left:150px;padding-bottom:10px;padding-top:10px;}
+.wenzi_textarea{float:left; text-align:right;width:90px; padding-left:3px}
+.h_120px{height:120px;line-height:120px;}
+.h_80px{height:80px;line-height:80px;}
+
+.yanzheng_textA{width:100%;height:60px;line-height:30px;}
+.yanzheng_textA .wenzi{float:left;text-align:right;width:130px;line-height:60px}
+.yanzheng_textA .wenzi80{float:left;text-align:right;width:80px;}
+.yanzheng_textA .wenzi100{float:left;text-align:right;width:100px;}
+.yanzheng_textA .shuru{float:left; text-align:left;padding-left:5px;width:60%;}
+.yanzheng_textA .shuru_fourL{float:left; text-align:left;padding-left:5px;width:135px;}
+.yanzheng_textA .shuru90{float:left; text-align:left;padding-left:5px;width:90%;}
+
+.yanzheng_textAh120{width:100%;height:120px;line-height:30px;}
+.yanzheng_textAh120 .wenzi{float:left;text-align:right;width:130px;line-height:100px}
+.yanzheng_textAh120 .shuru{float:left; text-align:left;padding-left:5px;width:60%;}
+
+.yanzheng .shuru220{float:left; text-align:left;padding-left:5px;width:220px;}
+
+.yanzheng .shuru180{float:left; text-align:left;padding-left:5px;width:180px;}
+
+
+.matNameDiv{width:100%;height:auto;line-height:20px;clear:both;overflow:auto;}
+.matNameDiv .checkbox{float:left;text-align:right;width:40px;}
+.matNameDiv .matName{float:left;text-align:left;padding-left:5px;width:135px;word-break:break-all;}

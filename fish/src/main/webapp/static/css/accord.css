@@ -1,0 +1,12 @@
+.accord{width:200px;border-right:#84a0c4 1px solid;background:#fff;overflow-y:auto;overflow-x:hidden}
+.accord_hide{top:4px;right:8px;background-position:0 -255px}
+.accord_hide:hover{background-position:-15px -255px}
+.accord_content{height:300px;display:none;border-bottom:#99BBE8 1px solid;overflow:auto;width:auto!important}
+/*width:190px*/
+.accord_open{background-position:0 -240px}
+.accord_open:hover{background-position:-15px -240px}
+.global_module { position:relative;}
+.global_module h3 { font-weight:500;line-height:24px;height:24px;background:url(../images/light-hd.gif) repeat-x 0 -9px;padding:0 5px;position:relative;border-bottom:#99BBE8 1px solid;cursor:pointer;}
+.global_module h3  span{line-height:15px;height:15px;margin-right:5px;}
+.accord_content1{display:none;border-bottom:#99BBE8 1px solid;overflow:auto;}
+.accord_title{ line-height:24px; height:24px; background:url(../images/light-hd.gif) repeat-x 0 -9px; padding:0 5px; position:absolute; border-bottom:#99BBE8 1px solid; cursor:pointer; width: 189px;}

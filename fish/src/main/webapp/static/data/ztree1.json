@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "parentId": 0,
+        "name": "角色留存指标统计",
+        "url":"/fish/retentionIndex"
+    },
+    {
+        "id": 2,
+        "parentId": 0,
+        "name": "日活、周活、月活查询",
+        "url":"/fish/dayWeekMonQuery"
+    },
+    {
+        "id": 3,
+        "parentId": 0,
+        "name": "24小时用户分布",
+        "url":"/fish/hoursDistributed"
+    },
+    {
+        "id": 4,
+        "parentId": 0,
+        "name": "货币数据查询",
+        "url":"/fish/currencyDataQuery"
+    },
+    {
+        "id": 5,
+        "parentId": 0,
+        "name": "关卡滞留数据查询",
+        "url":"/fish/checkpointRetentionDataQuery"
+    },
+    {
+        "id": 6,
+        "parentId": 0,
+        "name": "道具消耗查询",
+        "url":"/fish/propsConsumingQuery"
+    },
+    {
+        "id": 7,
+        "parentId": 0,
+        "name": "手机型号统计",
+        "url":"/fish/phoneModelStatistics"
+    },
+    {
+        "id": 8,
+        "parentId": 0,
+        "name": "渠道统计",
+        "url":"/fish/channelStatistics"
+    },
+    {
+        "id": 9,
+        "parentId": 0,
+        "name": "渠道映射",
+        "url":"/fish/channelMapping"
+    },
+    {
+        "id": 10,
+        "parentId": 0,
+        "name": "用户管理",
+        "url":"/fish/user"
+    }
+]
